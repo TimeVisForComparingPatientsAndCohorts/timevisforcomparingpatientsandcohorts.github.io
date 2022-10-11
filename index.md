@@ -26,19 +26,19 @@ The articles under review in general mitigate complexity through visualization a
 _Click on the images to see the full version. We provide these images here, as they could not be included in the paper in high-resolution._
 
 <a name="fig2"></a>
-<a href="/assets/img/Figure2-VisualizationTechniques.png">
+<a href="assets/img/Figure2-VisualizationTechniques.png">
 ![Occurences of visualization techniques in the papers as a frequency matrix variant.](/assets/img/Figure2-VisualizationTechniques.png)
 </a>
 <small>Figure 2. Visualization techniques in the selected articles. Each dot indicates the existence of the technique in a system, with full saturated dots representing the application of the technique for the explicit task of comparison. References within the gray background were identified to support the comparison of multiple patients (single-to-cohort or single-to-multiple). Colors indicate the visualization category, with the bars on the right showing the distribution of the techniques. Bars at the bottom represent the number of techniques identified for each article. Techniques are sorted based on the number of occurrences, and articles are sorted based on the year of publication.</small>
 
 <a name="fig3"></a>
-<a href="/assets/img/Figure3-Tasks.png">
+<a href="assets/img/Figure3-Tasks.png">
 ![Occurences of visualization techniques in the papers as a frequency matrix variant.](/assets/img/Figure3-Tasks.png)
 </a>
 <small>Figure 3. Identified tasks (actions and targets) in the included articles. The plot shows the tasks as actions (analyze, query, and search) and targets (all data, attributes, and network data) that could be completed by visualization systems presented in the articles in our selection. For the categorization of tasks, we used the taxonomy by Munzner [6]. Gray backgrounds indicate articles where patients (single-to-cohort or single-to-multiple) could be compared. Bars on the right-hand side represent the number of articles that used the displayed task category. </small>
 
 <a name="fig9"></a>
-<a href="/assets/img/Figure9-LineChartsCombinations.png">
+<a href="assets/img/Figure9-LineChartsCombinations.png">
 ![Possible combinations of line charts for comparing single patients, multiple patients, and cohorts.](/assets/img/Figure9-LineChartsCombinations.png)
 </a>
 <small>Figure 9. All possible combinations for comparing 1 measurement over time between different patient entities (single patient, multiple patients, and cohorts) in the case of line charts. For single and multiple patients, each line represents 1 measurement, whereas, for cohorts, the chart represents the mean and range. All combinations are shown in juxtapositioned and superpositioned layouts, with the colors supporting legibility in the latter.</small>
