@@ -23,6 +23,7 @@ The articles under review in general mitigate complexity through visualization a
 
 # Companion Tool
 
+<a name="tool"></a>
 <a href="https://imi-hd.github.io/ComPatiVis/"><img src="assets/img/survis-tool.png"/></a>
 <small>To provide readers with an interactive way of exploring the visualization systems from our scoping review, we created a visual literature browser using the SurVis software. Our tool not only provides a selection of attributes to see the use of specific visualization techniques but also enables cross-filtering to identify systems combining a set of attributes such as medical context, visualization, and patient entities.</small>
 
