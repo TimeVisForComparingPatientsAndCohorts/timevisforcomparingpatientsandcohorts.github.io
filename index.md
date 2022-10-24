@@ -21,6 +21,11 @@ Out of 249 screened articles, we identified 22 fitting all criteria, and reviewe
 **Conclusions:**
 The articles under review in general mitigate complexity through visualization and support diverse medical objectives. We identified three distinct patient entities: single patients, multiple patients, and cohorts. Cohorts typically are visualized in condensed form either through prior data aggregation or through visual summarization, whereas visualization of individual patients often contains finer details. All systems provide mechanisms to view and compare patient data. Explicitly comparing a single patient to multiple patients or a cohort, however, is supported only by a few systems. These systems mainly use basic visualization techniques with some employing novel visualizations tailored for a specific task. Overall, we found the visual comparison of measurements between single and multiple patients or cohorts to be underdeveloped, and argue for further research in a systematic review, and the usefulness of a design space.
 
+# Companion Tool
+
+<a href="https://imi-hd.github.io/ComPatiVis/"><img src="assets/img/survis-tool.png"/></a>
+<small>To provide readers with an interactive way of exploring the visualization systems from our scoping review, we created a visual literature browser using the SurVis software. Our tool not only provides a selection of attributes to see the use of specific visualization techniques but also enables cross-filtering to identify systems combining a set of attributes such as medical context, visualization, and patient entities.</small>
+
 # Figures
 
 _Click on the images to see the full version. We provide these images here, as they could not be included in the paper in high-resolution._
